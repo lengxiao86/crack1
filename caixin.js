@@ -26,23 +26,6 @@
 hostname=gateway.caixin.com
 
 ***********************************/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 var header=$request['headers'];
 var url=$request.url.replace(/uid=(\d+|)/g,"uid=12622061")
             .replace(/code=(\w+|)/g,"code=7258E07D155FE91FB868E545947DDCAB")
